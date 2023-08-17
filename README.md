@@ -1,6 +1,6 @@
 # My Profile
 
-### I created my personal profile website within HTML and CSS code.
+### I created my personal profile website within HTML, CSS & JAVA code.
 
 ### Copyright  2023 Katragadda Vigneswar Siddu, Andhra Pradesh, India. All rights reserved.
 
